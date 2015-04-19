@@ -26,7 +26,7 @@ config.token = {
 // Server settings
 config.server = {
     host: '0.0.0.0',
-    port: process.env.NODE_PORT || 3000
+    port: process.env.NODE_PORT || 8100
 };
 
 // MongoDB settings
